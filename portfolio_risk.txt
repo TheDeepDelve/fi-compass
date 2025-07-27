@@ -1,0 +1,13 @@
+Topic: Understanding Portfolio Risk and Asset Allocation
+
+Portfolio risk refers to the chance that your investments will decrease in value. The primary way to manage this risk is through "asset allocation," which is how you divide your investments between different types of assets, mainly stocks (equity) and bonds (debt).
+
+Stocks (Equity): Represent ownership in a company. They have higher potential for growth but also come with higher risk and volatility (bigger price swings).
+
+Bonds (Debt): Are like loans you give to a government or company. They generally have lower potential returns but are much more stable and less risky than stocks.
+
+A Conservative Portfolio has more bonds than stocks (e.g., 60% debt, 40% equity). It's designed to protect your capital and generate modest returns.
+
+An Aggressive Portfolio has more stocks than bonds (e.g., 20% debt, 80% equity). It's designed for long-term growth and can handle more risk.
+
+Shifting your allocation from conservative to aggressive can potentially help you reach your goals faster, but it's crucial to understand that this also increases the risk of short-term losses.

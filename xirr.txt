@@ -1,0 +1,9 @@
+Topic: What is XIRR?
+
+XIRR stands for Extended Internal Rate of Return. While it sounds complicated, it's actually one of the most accurate ways to measure your investment performance.
+
+Think of it as your portfolio's true, personalized annual growth rate.
+
+Unlike simple returns, XIRR is smart. It takes into account all of your transactions—not just when you started, but every single time you invested more money (like through an SIP) or withdrew money. It understands that money invested at different times works for different durations.
+
+If your portfolio's XIRR is 12%, it means that, on average, your entire investment has been growing at a rate of 12% per year, considering all of your specific cash flows. It's the best way to compare the performance of different investments.

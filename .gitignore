@@ -1,0 +1,5 @@
+./backend_main/.env.sample
+./fi-mcp-dev-master
+./stock_market_data/.env
+./stock_market_data/service-account.json
+./stock_market_data/.env.sample

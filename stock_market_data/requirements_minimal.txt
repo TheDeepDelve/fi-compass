@@ -1,0 +1,28 @@
+# Essential dependencies for Alpha Vantage integration
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Google Cloud services
+google-cloud-pubsub==2.18.4
+google-cloud-firestore==2.13.1
+google-cloud-bigquery==3.13.0
+google-cloud-storage==2.10.0
+google-cloud-aiplatform==1.38.1
+
+# HTTP requests for Alpha Vantage API
+requests==2.31.0
+
+# Configuration and environment
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Authentication and security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Async support
+aiofiles==23.2.1
+
+# Logging
+structlog==23.2.0 
