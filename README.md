@@ -264,10 +264,6 @@ npm run build
 - **Prettier** - Code formatting
 - **Conventional Commits** - Standard commit messages
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - **Shadcn/ui** - Beautiful, accessible components
@@ -281,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - **Documentation** - Check the API integration docs
 - **Issues** - Report bugs and feature requests
-- **Discussions** - Community discussions and help
+- **Contact** - [harshdeep7199@gmail.com](harshdeep7199@gmail.com)
 
 ---
 
