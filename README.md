@@ -61,24 +61,24 @@ Fi Compass is a comprehensive financial management platform that combines AI-pow
 
 ```
 src/
-├── components/          # Reusable UI components
-│   ├── ui/             # Shadcn/ui components
-│   ├── dashboard/      # Dashboard-specific components
-│   ├── Chatbot.tsx     # AI chat interface
-│   ├── HeroSection.tsx # Landing page hero
+├── components/         
+│   ├── ui/             
+│   ├── dashboard/      
+│   ├── Chatbot.tsx     
+│   ├── HeroSection.tsx 
 │   └── ...
-├── hooks/              # Custom React hooks
-│   ├── useApi.ts       # API integration hooks
-│   └── use-toast.ts    # Toast notification hook
-├── lib/                # Utility functions
-│   ├── api.ts          # API client functions
-│   ├── utils.ts        # General utilities
-│   └── gemini-test.ts  # AI integration
-├── pages/              # Route components
-│   ├── Dashboard.tsx   # Main dashboard
-│   ├── Index.tsx       # Landing page
-│   └── Login.tsx       # Authentication
-└── assets/             # Static assets
+├── hooks/              
+│   ├── useApi.ts       
+│   └── use-toast.ts    
+├── lib/                
+│   ├── api.ts          
+│   ├── utils.ts        
+│   └── gemini-test.ts  
+├── pages/              
+│   ├── Dashboard.tsx   
+│   ├── Index.tsx       
+│   └── Login.tsx       
+└── assets/             
 ```
 
 ## Getting Started
