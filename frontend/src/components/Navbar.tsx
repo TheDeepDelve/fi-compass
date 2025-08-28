@@ -10,29 +10,29 @@ const Navbar = () => {
 
   const teamMembers = [
     {
-      name: "Rakesh Roushan",
-      email: "rakeshroushan6200@gmail.com",
-      photo: "/lovable-uploads/f3a81e68-b8d5-4dff-a4b0-3a091634fb92.png"
+      name: "Harsh Deep",
+      email: "harshdeep7199@gmail.com",
+      photo: "/profile/harsh.jpg"
     },
     {
       name: "Rakesh Roushan",
       email: "rakeshroushan6200@gmail.com",
-      photo: "/lovable-uploads/f3a81e68-b8d5-4dff-a4b0-3a091634fb92.png"
+      photo: "/profile/rakesh.png"
     },
     {
-      name: "Rakesh Roushan",
-      email: "rakeshroushan6200@gmail.com",
-      photo: "/lovable-uploads/f3a81e68-b8d5-4dff-a4b0-3a091634fb92.png"
+      name: "Kumar Aditya",
+      email: "kumar.is22@bmsce.ac.in",
+      photo: "/profile/aditya.png"
     },
     {
-      name: "Rakesh Roushan",
-      email: "rakeshroushan6200@gmail.com",
-      photo: "/lovable-uploads/f3a81e68-b8d5-4dff-a4b0-3a091634fb92.png"
+      name: "Vasu Gupta",
+      email: "vasu.ec22@bmsce.ac.in",
+      photo: ""
     },
     {
-      name: "Rakesh Roushan",
-      email: "rakeshroushan6200@gmail.com",
-      photo: "/lovable-uploads/f3a81e68-b8d5-4dff-a4b0-3a091634fb92.png"
+      name: "Samarth Kumar Dubey",
+      email: "samarth.cs22@bmsce.ac.in",
+      photo: ""
     }
   ];
 
