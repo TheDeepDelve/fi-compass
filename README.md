@@ -155,6 +155,45 @@ The application integrates with multiple financial APIs:
 - **Modals** - Feature-rich overlay components
 - **Forms** - Validated input components
 
+## UI Screenshots
+
+Below are screenshots of the main UI sections of Fi Compass:
+
+<div align="center">
+   <img src="Interfaces/home.png" alt="Home UI" width="400" />
+   <br/><b>Home</b>
+</div>
+
+<div align="center">
+   <img src="Interfaces/login.png" alt="Login UI" width="400" />
+   <br/><b>Login</b>
+</div>
+
+<div align="center">
+   <img src="Interfaces/pilot.png" alt="Pilot Dashboard" width="400" />
+   <br/><b>Pilot Dashboard</b>
+</div>
+
+<div align="center">
+   <img src="Interfaces/navigator.png" alt="Navigator Dashboard" width="400" />
+   <br/><b>Navigator Dashboard</b>
+</div>
+
+<div align="center">
+   <img src="Interfaces/portfolio.png" alt="Portfolio UI" width="400" />
+   <br/><b>Portfolio</b>
+</div>
+
+<div align="center">
+   <img src="Interfaces/subscription.png" alt="Subscription Tracker" width="400" />
+   <br/><b>Subscription Tracker</b>
+</div>
+
+<div align="center">
+   <img src="Interfaces/user-profile.png" alt="User Profile" width="400" />
+   <br/><b>User Profile</b>
+</div>
+
 ## AI Integration
 
 ### Chatbot Features
